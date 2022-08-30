@@ -1,6 +1,3 @@
-// ----------- HW-7 RTK Query ----------------
-
-// import { combineReducers } from 'redux';
 import { configureStore } from '@reduxjs/toolkit';
 import { setupListeners } from '@reduxjs/toolkit/query';
 

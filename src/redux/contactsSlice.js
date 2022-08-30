@@ -1,4 +1,3 @@
-// ----------- HW-7 RTK Query ----------------
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 
 export const contactsApi = createApi({
